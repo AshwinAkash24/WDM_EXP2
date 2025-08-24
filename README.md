@@ -54,7 +54,8 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
-<img width="1919" height="1004" alt="Screenshot 2025-08-24 221659" src="https://github.com/user-attachments/assets/dbf63f22-d791-4f94-8b38-2c55e6782be4" />
+<img width="1919" height="1018" alt="Screenshot 2025-08-24 222413" src="https://github.com/user-attachments/assets/3b3189df-4c99-4448-b076-21e03c4b9b48" />
+
 
 ### RESULT: 
 Thus, the generation of association rules using apriori algorithm is executed successfully.
